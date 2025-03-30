@@ -1,0 +1,89 @@
+ body{
+    display: flex;
+    margin: 0;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.login{
+    width: 400px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    
+    border: 1px solid rgb(145, 145, 145);
+    
+   
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    background-color: rgb(70, 60, 136);
+    width: 100%;
+    
+}
+.header h1{
+    position: absolute;
+}
+
+button{
+    background-color: rgb(37, 36, 37);
+    width: 70px;
+        height: 30px;
+        margin: 20px;
+        color: #fff;
+}
+button:hover{
+ background-color: rgb(62, 60, 60);
+}
+
+.footer{
+    background-color: rgb(204, 203, 204);
+    width: 100%;
+    height: 251px;
+    letter-spacing: 1px;
+
+}
+
+.hello{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 100%;
+    margin: 150px 0px;
+}
+table,th,td,tr{
+    border: 2px solid black;
+    width: 100%;
+    height: 70px;
+    letter-spacing: 1px;
+}
+td,tr:hover{
+    cursor: pointer;
+}
+th:hover{
+    cursor:default;
+}
+.hello1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 100%;
+    margin: 40px 0px;  
+    
+}
+th{
+    background-color: rgb(83, 104, 112);
+    color: #fff;
+
+}
+.date{
+    
+    margin-left: 1700px;
+}
