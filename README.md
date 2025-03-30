@@ -3,4 +3,4 @@ The user is then redirected to a page with his schedule on it, where he can view
 
 2. Running instructions: Download all files included, make sure they are in the same folder after downloading and run index.html.
 
-  In collaboration with Evaggelia Karampampa.
+      In collaboration with Evaggelia Karampampa.
